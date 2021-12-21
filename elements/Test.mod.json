@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "damantiumoal",
+    "name": "Test",
+    "description": "efdq",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "block.anvil.fall"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}
