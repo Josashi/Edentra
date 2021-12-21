@@ -1,0 +1,13 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "edentra:adamantiumoreblock"
+    }
+  ],
+  "result": {
+    "item": "edentra:adamantiumingot",
+    "count": 9
+  }
+}

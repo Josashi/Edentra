@@ -1,0 +1,37 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "edentra:ironparticule"
+    },
+    {
+      "item": "edentra:ironparticule"
+    },
+    {
+      "item": "edentra:ironparticule"
+    },
+    {
+      "item": "edentra:ironparticule"
+    },
+    {
+      "item": "edentra:ironparticule"
+    },
+    {
+      "item": "edentra:ironparticule"
+    },
+    {
+      "item": "edentra:ironparticule"
+    },
+    {
+      "item": "edentra:ironparticule"
+    },
+    {
+      "item": "edentra:ironparticule"
+    }
+  ],
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 1
+  }
+}

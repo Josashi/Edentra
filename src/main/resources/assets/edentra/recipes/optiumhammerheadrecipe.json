@@ -1,0 +1,24 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    " 4 ",
+    "  8"
+  ],
+  "key": {
+    "0": {
+      "item": "edentra:optiumoreblock"
+    },
+    "4": {
+      "item": "edentra:optiumingot"
+    },
+    "8": {
+      "item": "edentra:optiumoreblock"
+    }
+  },
+  "result": {
+    "item": "edentra:optiumhammerhead",
+    "count": 1
+  }
+}

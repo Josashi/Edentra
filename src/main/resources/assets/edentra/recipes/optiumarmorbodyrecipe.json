@@ -1,0 +1,39 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "edentra:optiumingot"
+    },
+    "2": {
+      "item": "edentra:optiumingot"
+    },
+    "3": {
+      "item": "edentra:optiumingot"
+    },
+    "4": {
+      "item": "edentra:optiumingot"
+    },
+    "5": {
+      "item": "edentra:optiumingot"
+    },
+    "6": {
+      "item": "edentra:optiumingot"
+    },
+    "7": {
+      "item": "edentra:optiumingot"
+    },
+    "8": {
+      "item": "edentra:optiumingot"
+    }
+  },
+  "result": {
+    "item": "edentra:optiumarmorbody",
+    "count": 1
+  }
+}

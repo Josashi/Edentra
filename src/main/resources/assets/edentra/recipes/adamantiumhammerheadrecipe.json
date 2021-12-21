@@ -1,0 +1,24 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    " 4 ",
+    "  8"
+  ],
+  "key": {
+    "0": {
+      "item": "edentra:adamantiumoreblock"
+    },
+    "4": {
+      "item": "edentra:adamantiumingot"
+    },
+    "8": {
+      "item": "edentra:adamantiumoreblock"
+    }
+  },
+  "result": {
+    "item": "edentra:adamantiumhammerhead",
+    "count": 1
+  }
+}

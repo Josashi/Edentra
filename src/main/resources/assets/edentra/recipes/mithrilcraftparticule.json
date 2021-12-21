@@ -1,0 +1,37 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "edentra:mithrilparticule"
+    },
+    {
+      "item": "edentra:mithrilparticule"
+    },
+    {
+      "item": "edentra:mithrilparticule"
+    },
+    {
+      "item": "edentra:mithrilparticule"
+    },
+    {
+      "item": "edentra:mithrilparticule"
+    },
+    {
+      "item": "edentra:mithrilparticule"
+    },
+    {
+      "item": "edentra:mithrilparticule"
+    },
+    {
+      "item": "edentra:mithrilparticule"
+    },
+    {
+      "item": "edentra:mithrilparticule"
+    }
+  ],
+  "result": {
+    "item": "edentra:mithrilingot",
+    "count": 1
+  }
+}

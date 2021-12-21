@@ -1,0 +1,29 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "edentra:optiumingot"
+    },
+    "1": {
+      "item": "edentra:optiumingot"
+    },
+    "2": {
+      "item": "edentra:optiumingot"
+    },
+    "3": {
+      "item": "edentra:optiumingot"
+    },
+    "5": {
+      "item": "edentra:optiumingot"
+    }
+  },
+  "result": {
+    "item": "edentra:optiumarmorhelmet",
+    "count": 1
+  }
+}

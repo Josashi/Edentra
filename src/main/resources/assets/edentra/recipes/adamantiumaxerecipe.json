@@ -1,0 +1,30 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "edentra:adamantiumoreblock"
+    },
+    "1": {
+      "item": "edentra:adamantiumoreblock"
+    },
+    "2": {
+      "item": "edentra:adamantiumoreblock"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "edentra:adamantiumaxe",
+    "count": 1
+  }
+}

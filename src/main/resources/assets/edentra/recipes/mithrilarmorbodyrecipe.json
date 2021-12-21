@@ -1,0 +1,39 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "edentra:mithrilingot"
+    },
+    "2": {
+      "item": "edentra:mithrilingot"
+    },
+    "3": {
+      "item": "edentra:mithrilingot"
+    },
+    "4": {
+      "item": "edentra:mithrilingot"
+    },
+    "5": {
+      "item": "edentra:mithrilingot"
+    },
+    "6": {
+      "item": "edentra:mithrilingot"
+    },
+    "7": {
+      "item": "edentra:mithrilingot"
+    },
+    "8": {
+      "item": "edentra:mithrilingot"
+    }
+  },
+  "result": {
+    "item": "edentra:mithrilarmorbody",
+    "count": 1
+  }
+}

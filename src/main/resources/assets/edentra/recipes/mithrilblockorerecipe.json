@@ -1,0 +1,13 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "edentra:mithriloreblock"
+    }
+  ],
+  "result": {
+    "item": "edentra:mithrilingot",
+    "count": 9
+  }
+}

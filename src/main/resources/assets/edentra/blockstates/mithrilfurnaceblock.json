@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "edentra:mithrilfurnaceblock"
+    },
+    "facing=north": {
+      "model": "edentra:mithrilfurnaceblock"
+    },
+    "facing=east": {
+      "model": "edentra:mithrilfurnaceblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "edentra:mithrilfurnaceblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "edentra:mithrilfurnaceblock",
+      "y": 270
+    }
+  }
+}

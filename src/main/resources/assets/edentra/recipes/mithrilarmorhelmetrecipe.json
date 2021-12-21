@@ -1,0 +1,29 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "edentra:mithrilingot"
+    },
+    "1": {
+      "item": "edentra:mithrilingot"
+    },
+    "2": {
+      "item": "edentra:mithrilingot"
+    },
+    "3": {
+      "item": "edentra:mithrilingot"
+    },
+    "5": {
+      "item": "edentra:mithrilingot"
+    }
+  },
+  "result": {
+    "item": "edentra:mithrilarmorhelmet",
+    "count": 1
+  }
+}

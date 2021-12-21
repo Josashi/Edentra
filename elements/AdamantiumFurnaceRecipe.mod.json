@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AdamantiumIngot"
+      },
+      {
+        "value": "CUSTOM:AdamantiumIngot"
+      },
+      {
+        "value": "CUSTOM:AdamantiumIngot"
+      },
+      {
+        "value": "CUSTOM:AdamantiumOreBlock"
+      },
+      {
+        "value": "CUSTOM:MithrilFurnaceBlock"
+      },
+      {
+        "value": "CUSTOM:AdamantiumOreBlock"
+      },
+      {
+        "value": "CUSTOM:AdamantiumIngot"
+      },
+      {
+        "value": "CUSTOM:AdamantiumIngot"
+      },
+      {
+        "value": "CUSTOM:AdamantiumIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AdamantiumFurnaceBlock"
+    },
+    "name": "adamantiumfurnacerecipe",
+    "namespace": "mod"
+  }
+}

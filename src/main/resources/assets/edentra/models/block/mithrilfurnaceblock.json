@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "edentra:blocks/mithril_furnace",
+    "up": "edentra:blocks/mithril_furnace",
+    "north": "edentra:blocks/mithril_furnace_face",
+    "east": "edentra:blocks/mithril_furnace",
+    "south": "edentra:blocks/mithril_furnace",
+    "west": "edentra:blocks/mithril_furnace",
+    "particle": "edentra:blocks/mithril_furnace"
+  }
+}

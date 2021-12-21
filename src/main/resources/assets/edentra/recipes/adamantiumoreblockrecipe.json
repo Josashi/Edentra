@@ -1,0 +1,42 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "edentra:adamantiumingot"
+    },
+    "1": {
+      "item": "edentra:adamantiumingot"
+    },
+    "2": {
+      "item": "edentra:adamantiumingot"
+    },
+    "3": {
+      "item": "edentra:adamantiumingot"
+    },
+    "4": {
+      "item": "edentra:adamantiumingot"
+    },
+    "5": {
+      "item": "edentra:adamantiumingot"
+    },
+    "6": {
+      "item": "edentra:adamantiumingot"
+    },
+    "7": {
+      "item": "edentra:adamantiumingot"
+    },
+    "8": {
+      "item": "edentra:adamantiumingot"
+    }
+  },
+  "result": {
+    "item": "edentra:adamantiumoreblock",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "edentra:adamantiumoreblock"
+    },
+    "1": {
+      "item": "edentra:adamantiumoreblock"
+    },
+    "2": {
+      "item": "edentra:adamantiumoreblock"
+    },
+    "3": {
+      "item": "edentra:adamantiumoreblock"
+    },
+    "5": {
+      "item": "edentra:adamantiumoreblock"
+    },
+    "6": {
+      "item": "edentra:adamantiumoreblock"
+    },
+    "8": {
+      "item": "edentra:adamantiumoreblock"
+    }
+  },
+  "result": {
+    "item": "edentra:adamantiumarmorlegs",
+    "count": 1
+  }
+}

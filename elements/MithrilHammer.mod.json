@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "mithril_hammer",
+    "customModelName": "Normal",
+    "name": "Mithril Hammer",
+    "creativeTab": {
+      "value": "CUSTOM:EdentraTools"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 3.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "onBlockDestroyedWithTool": {
+      "name": "MithrilHammerProcedure"
+    }
+  }
+}

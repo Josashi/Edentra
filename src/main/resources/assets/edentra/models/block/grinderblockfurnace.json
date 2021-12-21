@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "edentra:blocks/grinder_2",
+    "up": "edentra:blocks/grinder_2",
+    "north": "edentra:blocks/grinder_furnace",
+    "east": "edentra:blocks/grinder_2",
+    "south": "edentra:blocks/grinder_2",
+    "west": "edentra:blocks/grinder_2",
+    "particle": "edentra:blocks/grinder_2"
+  }
+}

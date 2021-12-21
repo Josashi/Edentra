@@ -1,0 +1,26 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "edentra:optiumingot"
+    },
+    "2": {
+      "item": "edentra:optiumingot"
+    },
+    "3": {
+      "item": "edentra:optiumingot"
+    },
+    "5": {
+      "item": "edentra:optiumingot"
+    }
+  },
+  "result": {
+    "item": "edentra:optiumarmorboots",
+    "count": 1
+  }
+}

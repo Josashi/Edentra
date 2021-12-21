@@ -1,0 +1,37 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "edentra:diamondparticule"
+    },
+    {
+      "item": "edentra:diamondparticule"
+    },
+    {
+      "item": "edentra:diamondparticule"
+    },
+    {
+      "item": "edentra:diamondparticule"
+    },
+    {
+      "item": "edentra:diamondparticule"
+    },
+    {
+      "item": "edentra:diamondparticule"
+    },
+    {
+      "item": "edentra:diamondparticule"
+    },
+    {
+      "item": "edentra:diamondparticule"
+    },
+    {
+      "item": "edentra:diamondparticule"
+    }
+  ],
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 1
+  }
+}

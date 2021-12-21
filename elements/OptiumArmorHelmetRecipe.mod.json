@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:OptiumIngot"
+      },
+      {
+        "value": "CUSTOM:OptiumIngot"
+      },
+      {
+        "value": "CUSTOM:OptiumIngot"
+      },
+      {
+        "value": "CUSTOM:OptiumIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:OptiumIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:OptiumArmor.helmet"
+    },
+    "name": "optiumarmorhelmetrecipe",
+    "namespace": "mod"
+  }
+}

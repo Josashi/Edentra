@@ -1,0 +1,13 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "edentra:optiumoreblock"
+    }
+  ],
+  "result": {
+    "item": "edentra:optiumingot",
+    "count": 9
+  }
+}

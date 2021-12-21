@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "edentra:blocks/adamantium_furnace",
+    "up": "edentra:blocks/adamantium_furnace",
+    "north": "edentra:blocks/adamantium_furnace_face",
+    "east": "edentra:blocks/adamantium_furnace",
+    "south": "edentra:blocks/adamantium_furnace",
+    "west": "edentra:blocks/adamantium_furnace",
+    "particle": "edentra:blocks/adamantium_furnace"
+  }
+}

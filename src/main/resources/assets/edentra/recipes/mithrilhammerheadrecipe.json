@@ -1,0 +1,24 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    " 4 ",
+    "  8"
+  ],
+  "key": {
+    "0": {
+      "item": "edentra:mithriloreblock"
+    },
+    "4": {
+      "item": "edentra:mithrilingot"
+    },
+    "8": {
+      "item": "edentra:mithriloreblock"
+    }
+  },
+  "result": {
+    "item": "edentra:mithrilhammerhead",
+    "count": 1
+  }
+}

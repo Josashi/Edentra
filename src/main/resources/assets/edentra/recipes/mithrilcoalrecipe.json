@@ -1,0 +1,43 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "edentra:mithrilparticule"
+    },
+    "1": {
+      "item": "edentra:mithrilparticule"
+    },
+    "2": {
+      "item": "edentra:mithrilparticule"
+    },
+    "3": {
+      "item": "edentra:mithrilparticule"
+    },
+    "4": {
+      "item": "minecraft:coal",
+      "data": 0
+    },
+    "5": {
+      "item": "edentra:mithrilparticule"
+    },
+    "6": {
+      "item": "edentra:mithrilparticule"
+    },
+    "7": {
+      "item": "edentra:mithrilparticule"
+    },
+    "8": {
+      "item": "edentra:mithrilparticule"
+    }
+  },
+  "result": {
+    "item": "edentra:mithrilcoal",
+    "count": 8
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "edentra:blocks/broyeur_side",
+    "up": "edentra:blocks/broyeur_top",
+    "north": "edentra:blocks/broyeur_side",
+    "east": "edentra:blocks/broyeur_side",
+    "south": "edentra:blocks/broyeur_side",
+    "west": "edentra:blocks/broyeur_side",
+    "particle": "edentra:blocks/broyeur_side"
+  }
+}

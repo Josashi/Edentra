@@ -1,0 +1,26 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "edentra:adamantiumoreblock"
+    },
+    "2": {
+      "item": "edentra:adamantiumoreblock"
+    },
+    "3": {
+      "item": "edentra:adamantiumoreblock"
+    },
+    "5": {
+      "item": "edentra:adamantiumoreblock"
+    }
+  },
+  "result": {
+    "item": "edentra:adamantiumarmorboots",
+    "count": 1
+  }
+}

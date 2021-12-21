@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "edentra:broyeurblock"
+    },
+    "facing=north": {
+      "model": "edentra:broyeurblock"
+    },
+    "facing=east": {
+      "model": "edentra:broyeurblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "edentra:broyeurblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "edentra:broyeurblock",
+      "y": 270
+    }
+  }
+}

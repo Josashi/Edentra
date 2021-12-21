@@ -1,0 +1,38 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "edentra:adamantiumparticule"
+    },
+    {
+      "item": "edentra:adamantiumparticule"
+    },
+    {
+      "item": "edentra:adamantiumparticule"
+    },
+    {
+      "item": "edentra:adamantiumparticule"
+    },
+    {
+      "item": "minecraft:coal",
+      "data": 0
+    },
+    {
+      "item": "edentra:adamantiumparticule"
+    },
+    {
+      "item": "edentra:adamantiumparticule"
+    },
+    {
+      "item": "edentra:adamantiumparticule"
+    },
+    {
+      "item": "edentra:adamantiumparticule"
+    }
+  ],
+  "result": {
+    "item": "edentra:adamantiumcoal",
+    "count": 16
+  }
+}

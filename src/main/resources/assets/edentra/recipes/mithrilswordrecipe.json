@@ -1,0 +1,24 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "edentra:mithrilingot"
+    },
+    "1": {
+      "item": "edentra:mithrilingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "edentra:mithrilsword",
+    "count": 1
+  }
+}

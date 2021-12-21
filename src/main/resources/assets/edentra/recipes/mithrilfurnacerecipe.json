@@ -1,0 +1,42 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "edentra:mithriloreblock"
+    },
+    "1": {
+      "item": "edentra:mithrilingot"
+    },
+    "2": {
+      "item": "edentra:mithriloreblock"
+    },
+    "3": {
+      "item": "edentra:mithrilingot"
+    },
+    "4": {
+      "item": "minecraft:furnace"
+    },
+    "5": {
+      "item": "edentra:mithrilingot"
+    },
+    "6": {
+      "item": "edentra:mithriloreblock"
+    },
+    "7": {
+      "item": "edentra:mithrilingot"
+    },
+    "8": {
+      "item": "edentra:mithriloreblock"
+    }
+  },
+  "result": {
+    "item": "edentra:mithrilfurnaceblock",
+    "count": 1
+  }
+}

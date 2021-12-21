@@ -1,0 +1,37 @@
+{
+  "group": "edentra",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "edentra:goldparticule"
+    },
+    {
+      "item": "edentra:goldparticule"
+    },
+    {
+      "item": "edentra:goldparticule"
+    },
+    {
+      "item": "edentra:goldparticule"
+    },
+    {
+      "item": "edentra:goldparticule"
+    },
+    {
+      "item": "edentra:goldparticule"
+    },
+    {
+      "item": "edentra:goldparticule"
+    },
+    {
+      "item": "edentra:goldparticule"
+    },
+    {
+      "item": "edentra:goldparticule"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gold_ingot",
+    "count": 1
+  }
+}
