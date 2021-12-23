@@ -1136,14 +1136,6 @@
           }
         ]
       }
-    },
-    {
-      "name": "Test",
-      "type": "block",
-      "sortid": 130,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -1170,7 +1162,6 @@
       "item.adamantiumstick.name": "Adamantium Stick",
       "item.adamantiumaxe.name": "Adamantium Axe",
       "item.mithrilarmorboots.name": "Mithril Boots",
-      "tile.test.name": "Test",
       "item.mithrilparticule.name": "Mithril Particule",
       "itemGroup.tabedentrablocks": "Edentra Machines",
       "item.adamantiumingot.name": "Adamantium",
