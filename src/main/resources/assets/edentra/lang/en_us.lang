@@ -18,6 +18,7 @@ tile.mithrilore.name=Mithril Ore
 item.adamantiumstick.name=Adamantium Stick
 item.adamantiumaxe.name=Adamantium Axe
 item.mithrilarmorboots.name=Mithril Boots
+tile.test.name=Test
 item.mithrilparticule.name=Mithril Particule
 itemGroup.tabedentrablocks=Edentra Machines
 item.adamantiumingot.name=Adamantium
