@@ -1136,6 +1136,22 @@
           }
         ]
       }
+    },
+    {
+      "name": "Test",
+      "type": "block",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EdentraSpikes",
+      "type": "tab",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -1149,8 +1165,8 @@
       "item.optiumpickaxe.name": "Optium Pickaxe",
       "item.adamantiumhammerhead.name": "Adamantium Hammer Head",
       "item.optiumaxe.name": "Optium Axe",
-      "tile.adamantiumfurnaceblock.name": "Adamantium Furnace Block",
       "item.adamantiumpickaxe.name": "Adamantium Pickaxe",
+      "tile.adamantiumfurnaceblock.name": "Adamantium Furnace Block",
       "item.diamondparticule.name": "Diamond Particule",
       "item.adamantiumcoal.name": "Adamantium Coal",
       "tile.adamantiumore.name": "Adamantium Ore",
@@ -1162,6 +1178,7 @@
       "item.adamantiumstick.name": "Adamantium Stick",
       "item.adamantiumaxe.name": "Adamantium Axe",
       "item.mithrilarmorboots.name": "Mithril Boots",
+      "tile.test.name": "Test",
       "item.mithrilparticule.name": "Mithril Particule",
       "itemGroup.tabedentrablocks": "Edentra Machines",
       "item.adamantiumingot.name": "Adamantium",
@@ -1196,6 +1213,7 @@
       "item.mithrilhammer.name": "Mithril Hammer",
       "item.adamantiumparticule.name": "Adamantium Particule",
       "item.ironparticule.name": "Iron Particule",
+      "itemGroup.tabedentraspikes": "Edentra Spikes",
       "tile.optiumore.name": "Optium Ore",
       "item.optiumarmorboots.name": "Optium Boots",
       "item.optiumparticule.name": "Optium Particule",
