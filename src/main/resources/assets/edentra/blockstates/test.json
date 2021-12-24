@@ -1,39 +1,39 @@
 {
   "forge_marker": 1,
   "defaults": {
-    "model": "edentra:jpp_jo_jpp_(3).obj",
+    "model": "edentra:spike_mithril_geo_(1).obj",
     "custom": {
       "flip-v": true
     },
     "textures": {
-      "#Material.001": "edentra:blocks/mithril_ore_block"
+      "#Spike_Mythril_Mat": "edentra:blocks/ythril_pike"
     }
   },
   "variants": {
     "normal": {
-      "model": "edentra:jpp_jo_jpp_(3).obj"
+      "model": "edentra:spike_mithril_geo_(1).obj"
     },
     "facing=north": {
-      "model": "edentra:jpp_jo_jpp_(3).obj"
+      "model": "edentra:spike_mithril_geo_(1).obj"
     },
     "facing=east": {
-      "model": "edentra:jpp_jo_jpp_(3).obj",
+      "model": "edentra:spike_mithril_geo_(1).obj",
       "y": 90
     },
     "facing=south": {
-      "model": "edentra:jpp_jo_jpp_(3).obj",
+      "model": "edentra:spike_mithril_geo_(1).obj",
       "y": 180
     },
     "facing=west": {
-      "model": "edentra:jpp_jo_jpp_(3).obj",
+      "model": "edentra:spike_mithril_geo_(1).obj",
       "y": 270
     },
     "facing=up": {
-      "model": "edentra:jpp_jo_jpp_(3).obj",
+      "model": "edentra:spike_mithril_geo_(1).obj",
       "x": 90
     },
     "facing=down": {
-      "model": "edentra:jpp_jo_jpp_(3).obj",
+      "model": "edentra:spike_mithril_geo_(1).obj",
       "x": 270
     },
     "inventory": [
