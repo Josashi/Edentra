@@ -1,7 +1,7 @@
 {
   "forge_marker": 1,
   "defaults": {
-    "model": "edentra:spike_mithril_geo_(1).obj",
+    "model": "edentra:spike_mithril_geo.obj",
     "custom": {
       "flip-v": true
     },
@@ -11,29 +11,29 @@
   },
   "variants": {
     "normal": {
-      "model": "edentra:spike_mithril_geo_(1).obj"
+      "model": "edentra:spike_mithril_geo.obj"
     },
     "facing=north": {
-      "model": "edentra:spike_mithril_geo_(1).obj"
+      "model": "edentra:spike_mithril_geo.obj"
     },
     "facing=east": {
-      "model": "edentra:spike_mithril_geo_(1).obj",
+      "model": "edentra:spike_mithril_geo.obj",
       "y": 90
     },
     "facing=south": {
-      "model": "edentra:spike_mithril_geo_(1).obj",
+      "model": "edentra:spike_mithril_geo.obj",
       "y": 180
     },
     "facing=west": {
-      "model": "edentra:spike_mithril_geo_(1).obj",
+      "model": "edentra:spike_mithril_geo.obj",
       "y": 270
     },
     "facing=up": {
-      "model": "edentra:spike_mithril_geo_(1).obj",
+      "model": "edentra:spike_mithril_geo.obj",
       "x": 90
     },
     "facing=down": {
-      "model": "edentra:spike_mithril_geo_(1).obj",
+      "model": "edentra:spike_mithril_geo.obj",
       "x": 270
     },
     "inventory": [

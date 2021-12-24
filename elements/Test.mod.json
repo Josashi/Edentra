@@ -9,7 +9,7 @@
     "textureRight": "",
     "textureBack": "",
     "renderType": 3,
-    "customModelName": "spike_mithril_geo_(1):default",
+    "customModelName": "spike_mithril_geo:default",
     "rotationMode": 0,
     "hasTransparency": true,
     "transparencyType": "SOLID",
